@@ -1,0 +1,6 @@
+H:\1 Intro to Programming\ClassDemo1\ClassDemo1\bin\Debug\ClassDemo1.exe.config
+H:\1 Intro to Programming\ClassDemo1\ClassDemo1\obj\Debug\ClassDemo1.csprojResolveAssemblyReference.cache
+H:\1 Intro to Programming\ClassDemo1\ClassDemo1\bin\Debug\ClassDemo1.exe
+H:\1 Intro to Programming\ClassDemo1\ClassDemo1\bin\Debug\ClassDemo1.pdb
+H:\1 Intro to Programming\ClassDemo1\ClassDemo1\obj\Debug\ClassDemo1.exe
+H:\1 Intro to Programming\ClassDemo1\ClassDemo1\obj\Debug\ClassDemo1.pdb

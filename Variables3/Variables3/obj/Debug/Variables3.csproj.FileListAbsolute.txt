@@ -1,0 +1,6 @@
+H:\1 Intro to Programming\Variables3\Variables3\bin\Debug\Variables3.exe.config
+H:\1 Intro to Programming\Variables3\Variables3\obj\Debug\Variables3.csprojResolveAssemblyReference.cache
+H:\1 Intro to Programming\Variables3\Variables3\bin\Debug\Variables3.exe
+H:\1 Intro to Programming\Variables3\Variables3\bin\Debug\Variables3.pdb
+H:\1 Intro to Programming\Variables3\Variables3\obj\Debug\Variables3.exe
+H:\1 Intro to Programming\Variables3\Variables3\obj\Debug\Variables3.pdb

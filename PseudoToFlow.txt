@@ -1,0 +1,127 @@
+Begin
+	input hours
+	input rate
+	pay = hours*rate
+	print pay
+End
+/////////
+Begin 
+	input x,y
+	sum = x+y
+	print sum
+End
+/////////
+Begin
+	input x,y,z
+	sum = x+y+z
+	avg = sum/3.0
+	print avg
+End
+/////////-----------------------------------
+Begin
+	input hours,rate
+	if (hours <=40) goto a, else goto b
+a:		pay = hours*rate
+		goto c
+b:	pay = 40*rate+ (hours-40)*rate*1.5
+c:	print pay
+End
+//////------------------------------------
+Begin
+	i = 0
+	sum = 0
+a:	if (i<10) goto b, else goto c
+b:		input x
+		sum = sum +x
+		i = i +1
+		goto a
+c:	avg = sum /10
+	print avg
+End
+/////-----------------------
+Begin
+	print "input 3 numbers"
+	input a,b,c
+	average(a,b,c)
+	print "Average is", result
+End
+
+Begin average(a,b,c)
+	sum = a+b+c
+	avg=sum/3.0
+Return
+/////----------------------------
+Begin
+	print "input your score on test"
+	input score
+	if (score >=90) goto a, else goto b
+a:		grade = "A"
+		goto i
+b:	if (score >=80) goto c, else goto d
+c:		grade = "B"
+		goto i
+d:	if (score >70) goto e, else goto f
+e:		grade = "C"
+		goto i
+f:	if (score >60) goto g, else goto h
+g:		grade = "D"
+		goto i
+h:	grade = "E"
+i:	print grade
+End
+//////////-------------------------------------
+Begin
+h:	print "select a membership"
+	input membership_type
+	if (membership_type == Standard) goto a, else goto b
+a:		rate = 120
+		goto g
+b:	if (membership_type == Senior) goto c, else goto d
+c:		rate = 100
+		goto g
+d:	if (membership_type == child) goto e, else goto f
+e:		rate = 50
+		goto g
+f:	print "invalid membership type  please try again"
+	goto h
+g:	print "how many months"
+	input number_months
+	total = number_months * rate
+	print "your total is", total
+End
+//////---------------------------------------------------------------------------
+Begin
+	array[] = 20,20,4,9,11,7,10,16,16,4,3,10,17,3,10,10,13,11,12,6,3,14,4,21,13,16,10,15,13,6,4,18,2,2,9,11,6,2,11,7,12,6,12,3,12,7,12,6,10,39,3,8,6
+	i = 0
+f:	if (i < sizeof array) goto a, else goto e
+a:		numTimes = array[i]
+b:		if (numTimes>0) goto c, else goto d
+c:			print "chicken "
+			numTimes = numTimes -1
+			goto b
+d:		numTimes =0
+		i = i +1
+		print new line character
+		goto f
+e:  print new line character
+End
+/////////
+Begin
+	open file
+	if (no error) goto a, else goto b
+a:		input:first line from file
+e:		if (not end of file) goto c, else goto End
+c:			print line
+			input: read next line
+			goto End
+b:	print "Problem Opening File"
+End
+/////////
+	
+
+
+
+
+
+
+

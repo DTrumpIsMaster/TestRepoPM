@@ -1,0 +1,6 @@
+H:\1 Intro to Programming\InOutPractice\InOutPractice\bin\Debug\InOutPractice.exe.config
+H:\1 Intro to Programming\InOutPractice\InOutPractice\bin\Debug\InOutPractice.exe
+H:\1 Intro to Programming\InOutPractice\InOutPractice\bin\Debug\InOutPractice.pdb
+H:\1 Intro to Programming\InOutPractice\InOutPractice\obj\Debug\InOutPractice.csprojResolveAssemblyReference.cache
+H:\1 Intro to Programming\InOutPractice\InOutPractice\obj\Debug\InOutPractice.exe
+H:\1 Intro to Programming\InOutPractice\InOutPractice\obj\Debug\InOutPractice.pdb

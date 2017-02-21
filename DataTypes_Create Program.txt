@@ -1,0 +1,16 @@
+Create a new visual studio console application Project.
+
+Write a program that does the following, in comments next to the line write the value of the changed variable
+
+//delcare a double called myDouble and initialize it to 123.3245
+//declare an integer called myInt and initialize it to 12
+//declare a float called myFloat and initialize it to 19.6
+//add myInt to .6 and put the result into myDouble
+//convert myFloat to an interger and put it into myInt  
+//(when you debug check to see if it rounded to nearest or down)
+//convert myDouble to an integer and put into myInt (make it round opposite way as last line)
+//divide myInt by 3 and put the result into myDouble;
+//set myDouble to be 12.6
+//set myFloat to be 13.8
+//add myDouble to myFloat and put the result into myInt; (result should be 26)
+//add myDouble to myFloat and put the result into myInt; (result should be 27- change when you do conversion to integers)

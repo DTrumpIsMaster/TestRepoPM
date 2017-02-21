@@ -1,0 +1,6 @@
+H:\1 Intro to Programming\Calc Avg\Calc Avg\bin\Debug\Calc Avg.exe.config
+H:\1 Intro to Programming\Calc Avg\Calc Avg\bin\Debug\Calc Avg.exe
+H:\1 Intro to Programming\Calc Avg\Calc Avg\bin\Debug\Calc Avg.pdb
+H:\1 Intro to Programming\Calc Avg\Calc Avg\obj\Debug\Calc Avg.csprojResolveAssemblyReference.cache
+H:\1 Intro to Programming\Calc Avg\Calc Avg\obj\Debug\Calc Avg.exe
+H:\1 Intro to Programming\Calc Avg\Calc Avg\obj\Debug\Calc Avg.pdb

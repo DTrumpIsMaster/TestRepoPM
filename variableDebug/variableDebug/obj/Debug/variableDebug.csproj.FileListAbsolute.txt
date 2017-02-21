@@ -1,0 +1,3 @@
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\variableDebug\variableDebug\bin\Debug\variableDebug.exe.config
+C:\Users\dbaker\Documents\HdriveCopy\Lecture Notes\2-Intro to Programming\variableDebug\variableDebug\obj\Debug\variableDebug.csprojResolveAssemblyReference.cache
+H:\1 Intro to Programming\variableDebug\variableDebug\bin\Debug\variableDebug.exe.config

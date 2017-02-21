@@ -1,0 +1,7 @@
+H:\IntoToProgramming\DataTypesDebug\DataTypesDebug\bin\Debug\DataTypesDebug.exe.config
+C:\Users\bdix\Desktop\DataTypesDebug\DataTypesDebug\bin\Debug\DataTypesDebug.exe.config
+C:\Users\bdix\Desktop\DataTypesDebug\DataTypesDebug\obj\Debug\DataTypesDebug.csprojResolveAssemblyReference.cache
+C:\Users\bdix\Desktop\DataTypesDebug\DataTypesDebug\bin\Debug\DataTypesDebug.exe
+C:\Users\bdix\Desktop\DataTypesDebug\DataTypesDebug\bin\Debug\DataTypesDebug.pdb
+C:\Users\bdix\Desktop\DataTypesDebug\DataTypesDebug\obj\Debug\DataTypesDebug.exe
+C:\Users\bdix\Desktop\DataTypesDebug\DataTypesDebug\obj\Debug\DataTypesDebug.pdb

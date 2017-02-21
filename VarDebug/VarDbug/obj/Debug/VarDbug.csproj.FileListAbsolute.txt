@@ -1,0 +1,7 @@
+H:\1 Intro to Programming\VarDbug\VarDbug\bin\Debug\VarDbug.exe.config
+H:\1 Intro to Programming\VarDebug\VarDbug\bin\Debug\VarDbug.exe.config
+H:\1 Intro to Programming\VarDebug\VarDbug\obj\Debug\VarDbug.csprojResolveAssemblyReference.cache
+H:\1 Intro to Programming\VarDebug\VarDbug\bin\Debug\VarDbug.exe
+H:\1 Intro to Programming\VarDebug\VarDbug\bin\Debug\VarDbug.pdb
+H:\1 Intro to Programming\VarDebug\VarDbug\obj\Debug\VarDbug.exe
+H:\1 Intro to Programming\VarDebug\VarDbug\obj\Debug\VarDbug.pdb
